@@ -1,5 +1,5 @@
 <?php
 
-echo "de o seu melhor ate o <strong> ultimo minuto </strong>";
+echo "de o seu melhor ate o ultimo minuto";
 
 ?>
